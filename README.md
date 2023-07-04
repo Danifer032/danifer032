@@ -15,9 +15,9 @@ I am a manual QA engineer. My work experience is about 2 years. During this time
 ![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&)
 
 ## Portfolio
-Web Testing - [Screenshot](https://github.com/Danifer032/danifer032/blob/main/assets/Web_testing.png)
-Equivalence classes and boundary values - [Screenshot](https://github.com/Danifer032/danifer032/blob/main/assets/Validate_testing.png)
-Test cases - [Screenshot](https://github.com/Danifer032/danifer032/blob/main/assets/Test_cases.png)
-API testing - [Screenshot](https://github.com/Danifer032/danifer032/blob/main/assets/Api_testing.png)
-Mobile Apps Testing - [Screenshot](https://github.com/Danifer032/danifer032/blob/main/assets/App_testing.png)
-Test Engineer Diploma - [Screenshot](https://github.com/Danifer032/danifer032/blob/main/assets/Diploma_Yandex_Practicum.pdf)
+Web Testing - [Screenshot](https://github.com/Danifer032/danifer032/blob/main/assets/Web_testing.png)  
+Equivalence classes and boundary values - [Screenshot](https://github.com/Danifer032/danifer032/blob/main/assets/Validate_testing.png)  
+Test cases - [Screenshot](https://github.com/Danifer032/danifer032/blob/main/assets/Test_cases.png)  
+API testing - [Screenshot](https://github.com/Danifer032/danifer032/blob/main/assets/Api_testing.png)  
+Mobile Apps Testing - [Screenshot](https://github.com/Danifer032/danifer032/blob/main/assets/App_testing.png)  
+Test Engineer Diploma - [Screenshot](https://github.com/Danifer032/danifer032/blob/main/assets/Diploma_Yandex_Practicum.pdf)  
