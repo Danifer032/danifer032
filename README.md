@@ -2,7 +2,7 @@
 
 I'm a QA
 
-Tools
-![Postman](https://img.shields.io/badge/POSTMAN-orange)
+## My Tools
+![Postman](https://img.shields.io/badge/POSTMAN-orange?style=for-the-badge&)
 
 Follow me
