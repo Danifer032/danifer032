@@ -15,7 +15,7 @@ I am a manual QA engineer. My work experience is about 2 years. During this time
 ![Figma](https://img.shields.io/badge/Figma-red?style=for-the-badge&)
 
 ## Portfolio
-![Web testing](https://github.com/Danifer032/danifer032/blob/main/assets/Web_testing.png)
+Web Tesing[Web testing](https://github.com/Danifer032/danifer032/blob/main/assets/Web_testing.png)
 ![Equivalence classes and boundary values](https://github.com/Danifer032/danifer032/blob/main/assets/Validate_testing.png)
 ![Test cases](https://github.com/Danifer032/danifer032/blob/main/assets/Test_cases.png)
 ![API testing](https://github.com/Danifer032/danifer032/blob/main/assets/Api_testing.png)
