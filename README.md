@@ -3,5 +3,6 @@
 I'm a QA
 
 Tools
+![Postman](https://img.shields.io/badge/POSTMAN-orange)
 
 Follow me
