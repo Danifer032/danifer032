@@ -1,6 +1,6 @@
 ## Daniil Avdeev
 
-![Header](https://github.com/Danifer032/danifer032/blob/main/assets/l3nObREX6Xo.jpg)
+![Header](https://github.com/Danifer032/danifer032/blob/main/assets/photo_2023-07-05_00-21-23.jpg)
 
 ## About me
 I'm a QA
