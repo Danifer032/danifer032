@@ -1,6 +1,6 @@
 ## Daniil Avdeev
 
-![Header](https://github.com/Danifer032/danifer032/blob/main/assets/photo_2023-07-05_00-21-23.jpg)
+![MainPhoto](https://github.com/Danifer032/danifer032/blob/main/assets/photo_2023-07-05_00-21-23.jpg)
 
 ## About me
 I am a manual QA engineer. My work experience is about 2 years. During this time I've managed to work in a large betting company and received a test engineer certificate from Yandex Practicum. 
